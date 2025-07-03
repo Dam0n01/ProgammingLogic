@@ -1,2 +1,2 @@
-# ProgammingLogic
-### Labprojects for IT 1050
+# Progamming Logic
+### Lab projects for IT 1050
